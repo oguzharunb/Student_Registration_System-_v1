@@ -7,40 +7,8 @@ namespace Student_Registration_System__v1
     class Program
     {
 
-        /*
-        
-        C# Öğrenci Kayıt Programı
-        C# Öğrenci Kayıt Programı
-
-Program üzerinden öğrenci kaydı alabilir, sisteme kayıtlı öğrencilere proje ve ödev ekleyebilir 
-        veya bunlardan bağımsız olarak sisteme yeni bir sınav bilgisi ekleyebilirsiniz.
-Özellikler & Detaylar:
-
-1- Şifreli Yönetici Paneli: Yeni kayıt, kayıt düzenleme silme vs kısaca tüm işlemler için yönetici 
-        kullanıcı adı ve parolasına ihtiyaç vardır. İzinsiz kullanım ve veri hırsızlığı için bu özelliği aktif edebilirsiniz..
-
-2- Öğrenci İşlemleri: Bu sayfa üzerinden yeni öğrenci kaydı oluşturabilir, oluşturduğunuz  kayıtları bu 
-        sayfa üzerinden düzenleyebilir veya silebilirsiniz. Düzenlemek istediğiniz öğrenciyi listeden 
-        seçtikten sonra “Güncelle” veya “Sil” butonları ile veritabanı işlemlerini tamamlayabilirsiniz.
-
-3- Ders / Proje / Ödev  İşlemleri: Sisteme kayıtlı öğrenciler üzerinden işlem yapılmaktadır. Bir öğrenciye 
-        ders, proje veya ödev vermeden önce, o öğrenci sisteme kayıtlı olmalıdır. Aksi halde öğrenci bilgisi
-        seçilmeden, o öğrenciye ödev veya proje atayamazsınız.
-
-4- Sınav Takvimi Oluşturma : Öğrenci veya ödev sisteminden tamamen bağımsız olarak çalışmaktadır.
-        Üniversite içerisinde yeni bir sınav oluşturma ve sınav bilgilerinin tüm detaylarını sisteme 
-        ekleme özelliği mevcuttur. Ders Proje eklemeye benzer şekilde, eğer sisteme kayıtlı bir ders
-        yoksa sınav oluşturamazsınız bunun için öncelikle sisteme sınava ait dersin adını ve bilgilerini 
-        kaydetmeniz gerekmektedir.
-
-5- Ayarlar: Login sayfasında (şifreli giriş ekranında) sizlerden istenilen kullanıcı adı, parola ve şifre
-        hatırlatıcı gibi özellikleri “Ayarlar” sayfasından değiştirebilirsiniz.
-
-6- Hakkında : Bu sayfada program hakkında version bilgisi veya benzer özellikleri görebilirsiniz.
-
-8- Kişileri Yazdırma ve Yedekleme: Programa kayıt edilen tüm kişileri isterseniz toplu olarak isterseniz de 
-        tek tek yazıcıdan çıktı alarak aktarma yapabilirsiniz. Bunun yanında gene aynı şekilde tüm listeyi 
-        ister PDF olarak ister WORD isterseniz HTML veya benzer formatlar da bilgisayarınıza yedekleyebilirsiniz..
+         /*
+           github.com/oguztheaxl
          */
 
         static School school = new School();
