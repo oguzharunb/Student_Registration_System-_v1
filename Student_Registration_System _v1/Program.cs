@@ -8,7 +8,8 @@ namespace Student_Registration_System__v1
     {
 
         /*
-         C# Öğrenci Kayıt Programı
+        sdfgdfhjgdfkjghdfg 
+        C# Öğrenci Kayıt Programı
 
 Program üzerinden öğrenci kaydı alabilir, sisteme kayıtlı öğrencilere proje ve ödev ekleyebilir 
         veya bunlardan bağımsız olarak sisteme yeni bir sınav bilgisi ekleyebilirsiniz.
